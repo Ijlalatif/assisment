@@ -1,0 +1,16 @@
+export const colors = {
+  background: '#F6F6FA',
+  white: '#FFFFFF',
+  text: '#202C43',
+  muted: '#8F8F8F',
+  primary: '#61C3F2',
+  nav: '#2E2739',
+  navInactive: '#827D88',
+  chip: '#E8E8EE',
+  gold: '#E6B325',
+  vip: '#564CA3',
+  regular: '#61C3F2',
+  unavailable: '#D1D1D6',
+  border: '#E4E4EA',
+  overlay: 'rgba(0,0,0,0.28)',
+};
